@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZFind", "ZFind.csproj", "{3CC2A1D2-DCCA-4592-BFA1-D89BC7092DDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CC2A1D2-DCCA-4592-BFA1-D89BC7092DDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CC2A1D2-DCCA-4592-BFA1-D89BC7092DDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CC2A1D2-DCCA-4592-BFA1-D89BC7092DDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CC2A1D2-DCCA-4592-BFA1-D89BC7092DDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

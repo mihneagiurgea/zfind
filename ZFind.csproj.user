@@ -1,0 +1,29 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <StartProgram>C:\Program Files\csunit.org\csUnit 2.5\csUnitCmd.exe</StartProgram>
+    <StartWorkingDirectory>C:\Users\Skipy\Documents\Visual Studio 2008\Projects\ZFind\bin\Debug</StartWorkingDirectory>
+    <StartArguments>/assembly:ZFind.exe</StartArguments>
+    <StartAction>Program</StartAction>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <StartProgram>C:\Program Files\csunit.org\csUnit 2.5\csUnitCmd.exe</StartProgram>
+    <StartWorkingDirectory>C:\Users\Skipy\Documents\Visual Studio 2008\Projects\ZFind\bin\Release</StartWorkingDirectory>
+    <StartArguments>/assembly:ZFind.exe</StartArguments>
+    <StartAction>Project</StartAction>
+  </PropertyGroup>
+  <PropertyGroup>
+    <PublishUrlHistory>publish\</PublishUrlHistory>
+    <InstallUrlHistory>
+    </InstallUrlHistory>
+    <SupportUrlHistory>
+    </SupportUrlHistory>
+    <UpdateUrlHistory>
+    </UpdateUrlHistory>
+    <BootstrapperUrlHistory>
+    </BootstrapperUrlHistory>
+    <ErrorReportUrlHistory>
+    </ErrorReportUrlHistory>
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+</Project>

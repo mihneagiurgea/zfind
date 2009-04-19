@@ -1,0 +1,16 @@
+﻿	
+BUGS:
+.CreateEdgesFromEdges is bugged, creates too many edges :D
+
+To-Do(s):
+.discovery -> look around, then a smarter move
+.rotate / simetry of map
+
+
+Look around:
+.TryMove inconsistency when used to move or to query laser
+.K rays evenly distributed, cu random delay la prima sau K +/= 2, K = 16-20, min 8-9
+.adauga punctele gasite (toate!)
+
+
+List of queries that are run a lot of times and need O(logN) or O(1) optimization:
